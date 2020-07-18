@@ -1,1 +1,1 @@
-# 30-Days-of-Code-Hackerrank
+MY 30 days of code in hackerank in java
